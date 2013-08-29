@@ -1,7 +1,7 @@
 {
   "name": "grunt-rtfm",
   "description": "Put your documentation in the console.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/onelifemedia/grunt-rtfm",
   "author": {
     "name": "Jim Gibbs",
@@ -20,7 +20,6 @@
     "node": "*"
   },
   "dependencies": {
-    "rtfm": "*",
     "colors": "~0.6.0-1",
     "grunt": "~0.4.0",
     "async": "~0.2.5"

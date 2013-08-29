@@ -3,7 +3,10 @@ module.exports = function(grunt) {
 
   grunt.initConfig({
     rtfm: {
-      src: ['demo/**/*.js']
+      files: {
+         src: ['demo/**/*.js']
+        ,dest: 'app/js/rtfm.js'
+      }
     }
   });
 };
