@@ -1,0 +1,35 @@
+{
+  "name": "grunt-rtfm",
+  "description": "Put your documentation in the console.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/onelifemedia/grunt-rtfm",
+  "author": {
+    "name": "Jim Gibbs",
+    "email": "jim.gibbs@brandingbrand.com",
+    "url": "http://brandingbrand.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:onelifemedia/grunt-rtfm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onelifemedia/grunt-rtfm/issues"
+  },
+  "main": "grunt.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "rtfm": "*",
+    "colors": "~0.6.0-1",
+    "grunt": "~0.4.0",
+    "async": "~0.2.5"
+  },
+  "keywords": [
+    "grunt",
+    "rtfm",
+    "console",
+    "documentation",
+    "project"
+  ]
+}
